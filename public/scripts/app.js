@@ -157,7 +157,7 @@ var Header = function Header(props) {
 };
 
 Header.defaultProps = {
-    title: 'Indecision app by Johan'
+    title: 'Indecision app by Johan NOT NOW'
 };
 
 var Action = function Action(props) {
